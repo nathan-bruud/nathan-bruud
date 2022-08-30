@@ -5,4 +5,4 @@ My interests currently include:<br>
 <li> Startups 🏋🏻‍♂️</li>
 <li> Coffee ☕</li> <br><br>
 Will be working on getting back into development after years of operations work professionally.<br>
-![uh](https://user-images.githubusercontent.com/97987326/187518913-a8686f32-38f8-4994-8d2a-4a241d712248.gif)
+<img src="https://user-images.githubusercontent.com/97987326/187518913-a8686f32-38f8-4994-8d2a-4a241d712248.gif"/>
